@@ -1,4 +1,3 @@
-
 # 🛗 Simulador de Elevador Inteligente
 
 Projeto desenvolvido para a disciplina de **Estrutura de Dados**, com o objetivo de simular o funcionamento de elevadores inteligentes em um prédio, utilizando heurísticas para otimização das paradas, redução do tempo de espera e eficiência energética.
@@ -26,40 +25,31 @@ O comportamento do elevador é controlado por lógicas implementadas na classe `
 
 ## 🗂️ Estrutura do Projeto
 
-elevador-principal-ed/
-├── *.java → Código-fonte Java
-├── *.class → Arquivos compilados
-├── Slides/ → Documentação e apresentação (.pdf)
-├── README.md → Este arquivo
-
+  📁 Simulador-Elevador
+├── 📄 *.java            → Código-fonte Java
+├── 📄 *.class           → Arquivos compilados (gerados após compilação)
+├── 📁 Slides/           → Documentação e apresentação
+│   ├── 📄 relatorio.pdf
+│   ├── 📄 slides-apresentacao.pptx
+│   └── 📄 diagramas.png (se houver)
+├── 📄 README.md         → Explicação geral do projeto
 
 ---
 
 ## ▶️ Como Executar o Projeto
 
-1. **Abrir o terminal na pasta do projeto** (`elevador-principal-ed/`)
+1. **Abrir o terminal na pasta do projeto**
 2. **Compilar todos os arquivos `.java`**:
 
 ```bash
 javac *.java
 Executar a classe principal:
 java ElevadorApp
-Se necessário, tente java Simulador se a principal estiver em Simulador.java.
-
+Se necessário, tente java Simulador se a classe principal for essa.
 📑 Documentação
 
 A documentação do projeto está disponível na pasta Slides/, incluindo:
 
 relatorio.pdf — Relatório técnico completo
-slides-apresentacao — Slides utilizados na apresentação
-
-
-👨‍💻 Equipe
-
-Bruno Ibiapina
-Paulo Henrique
-
-🔗 Repositório
-
-📎 Link do GitHub do grupo:
-https://github.com/BrunoIbiapina
+slides-apresentacao.pptx — Slides utilizados na apresentação
+Diagramas e explicações complementares
