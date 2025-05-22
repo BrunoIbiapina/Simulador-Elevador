@@ -45,10 +45,10 @@ O comportamento do elevador é controlado por lógicas implementadas na classe `
 javac *.java
 Executar a classe principal:
 java ElevadorApp
-Se necessário, tente java Simulador se a classe principal for essa.
+
 📑 Documentação
 
-A documentação do projeto está disponível na pasta Slides/, incluindo:
+A documentação do projeto está disponível na pasta docs/, incluindo:
 
 relatorio.pdf — Relatório técnico completo
 slides-apresentacao.pptx — Slides utilizados na apresentação
